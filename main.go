@@ -2,6 +2,4 @@ package main
 
 import "net/http"
 
-func main() {
-
-}
+func main() {}
